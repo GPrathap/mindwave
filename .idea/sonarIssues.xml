@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/androidsense-plugin/org.wso2.carbon.device.mgt.iot.androidsense.ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.android_sense.realtime.analytics-view/analytics-view.hbs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/artifacts.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_event_publisher/artifact.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_event_sink/artifact.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_event_sink/org_wso2_iot_mindwave.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_receiver/mindwave_receiver.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_script/artifact.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_script/mindwave_script.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.analytics/src/main/resources/carbonapps/raspberrypi/mindwave_stream/org.wso2.iot.mindwave_1.0.0.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../carbon-device-mgt-plugins/components/device-types/raspberrypi-plugin/org.wso2.carbon.device.mgt.iot.raspberrypi.ui/src/main/resources/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.raspberrypi.analytics-view/analytics-view.hbs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/deviceConfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/RaspberryAgentWithMindWave.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/deviceConfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/iotUtils.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/mqttConnector.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wso2iot-3.0.0/core/repository/deployment/server/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.raspberrypi.analytics-view/analytics-view.hbs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wso2iot-3.0.0/core/repository/deployment/server/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.raspberrypi.analytics-view/public/js/device-stats.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wso2iot-3.0.0/core/repository/deployment/server/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.raspberrypi.realtime.analytics-view/analytics-view.hbs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wso2iot-3.0.0/core/repository/deployment/server/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.raspberrypi.realtime.analytics-view/analytics-view.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wso2iot-3.0.0/core/repository/deployment/server/jaggeryapps/devicemgt/app/units/cdmf.unit.device.type.raspberrypi.realtime.analytics-view/public/js/device-stats.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
