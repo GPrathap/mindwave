@@ -16,26 +16,7 @@ virtual environment.
 
 To run: ` sudo ./testAgent.sh ` and follow the instructions.
 
-                                                -------------------
-                                                  startService.sh
-                                                -------------------
-After testing, this script can be used to deploy this application as a service on Raspberry Pi which will get loaded
-during boot up process.
 
-create a service:
-        ` sudo ./startService.sh `
-        
-get current state of the service:
-       ` sudo service RaspberryService.sh status `
-
-start service:
-       ` sudo service RaspberryService.sh start `
-
-stop service:
-       ` sudo service RaspberryService.sh stop `
-
-restart service:
-       ` sudo service RaspberryService.sh restart `
 
 
 
